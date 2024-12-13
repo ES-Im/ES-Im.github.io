@@ -6,154 +6,92 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: 김 은 서
-title: 
+name: 김은서
+title: Backend Developer
 email: eunseokim43@gmail.com
-blog: https://silver-w.tistory.com/
+website: github.com/ES-Im
+blog:  silver-w.tistory.com/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 github_username:  ES-Im
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
-# linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
 - title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+  icon: fas fa-blog
+  url: https://velog.io/@gehwan96
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요, << 간단 소개 >>
+    안녕하세요.  <br>
+    
+    <br>
   
-  나이 : 1993년생
-  최종 학력 : 영광여자고등학교
-  사용 기술 : 
-    - Back : <mark>JAVA</mark> <mark></mark>
-    - Front : <mark></mark>
-    - Tool : 
+    <strong>기술 스택<strong>
+      - 프레임워크 - <mark>Spring Boot</mark>
+      - 언어 - <mark>Java 21</mark>, <mark>Java Script</mark>
+      - 테스트 - <mark></mark>
+      - 미들웨어 - <mark></mark>
+      - 웹서버 - <mark></mark>
+      - DB(Hibernate) - <mark>MySQL</mark>,<mark>Mybatis</mark>, <mark>JPA</mark>, <mark>QueryDSL</mark>
+      - 기타 - <mark></mark>, <mark></mark>, <mark>Github</mark>
 
 content:
-  - title: Project # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: - Spring/MVC 방식을 사용한 쇼핑몰 제작
-        link: github.com/GDJ86-DH-MJ-ES/mall
-        # link_text: Project Website
-        additional_links:
-          - title:  배포 URL
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          이 사이트는 전자상거래 통합 관리 플랫폼입니다. 고객은 상품 검색, 장바구니, 결제, 후기 작성 및 개인정보 관리를 통해 쇼핑을 편리하게 이용할 수 있으며, 직원은 상품, 주문, 고객, 후기 관리 및 매출 통계를 통해 효율적인 운영과 관리가 가능합니다.
-        description: | # this will include new lines to allow paragraphs
-          - 사용 기술 : <mark>JAVA</mark> <mark></mark>
-          - (K-Digital Training) 클라우드 활용 자바 개발자 양성과정 86기 세미 팀 프로젝트입니다.
-
-  - title: 경력 # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: 경력
+    layout: list
     content:
       - layout: left
-        title: 인천광역시 
-        link:
-        # link_text: boringcompany.com
+        title: 인천광역시
+        link: 
         sub_title: 
         caption: 2021.09 ~ 2024.08
-        quote: >
         description: | # this will include new lines to allow paragraphs
-
+          21년 4월 지방공무원 공개경쟁임용시험을 통해 인천광역시에 소속되어 행정 업무와 민원 업무 등 각종 업무를 수행하였습니다.
+          <br>
+          
+          <strong>주요 업무<strong>
+          - 2022년-2023년 행정안전부 세외수입 결산 및 예산 보고 및 사용자 교육
+                          세외수입 프로그램 총괄 관리 업무 
+          - 2024년        LH(한국토지주택공사) 인천지역본부와 협업, 2024년 부동산가격공시 결정 및 공시 업무
+content:
   - title: 학력 # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: list # Layout for the section
     content:
-     - layout: left
-        title:  인하공업전문대학
+      - title: 인하공업전문대학
         caption: 전문통신공학과
-        sub_title: 2025.02 - 재학중
-        quote: >
+        sub_title: 2025.02 ~ 현재
         description: | # this will include new lines to allow paragraphs
-          - 
-
-    content:
-      - layout: left
-        title: 동양대학교 
+          
+      - title: 동양대학교
         caption: 행정학부
         sub_title: 2012.03 - 2014.12
-        quote: >
-         
         description: | # this will include new lines to allow paragraphs
           - 5급 고시 장학생 입학, 전액 장학금 수여
           - 3학년 2학기 후 중퇴
-    
-    content:
-     - layout: left
-        title: 영광여자고등학교 
-        caption: 이과
+
+      - title: 영광여자고등학교
+        caption: 인문계열
         sub_title: 2009.03 - 2012.02
-        quote: > 경상북도 영주 소재 고등학교       
         description: | # this will include new lines to allow paragraphs
-          - 
-  - title: 자격 # Title for the section
-    layout: list # Type of content section (list/text)
+          경상북도 영주 소재 고등학교  
+          
+- title: 자격
+    layout: list
     content:
-     - layout: left
-        title: 정보처리기사
-        caption: 한국산업인력공단
-        description: 2025.06 취득| # this will include new lines to allow paragraphs
-     - layout: left
-        title: SQL 개발자(SQLD)
-        caption: 데이터자격검정
-        description: 2024.12 취득| # this will include new lines to allow paragraphs
-     - layout: left
-        title: 재경관리사
-        caption: 삼일회계법인
-        description: 2020.01 취득| # this will include new lines to allow paragraphs
-     - layout: left
-        title: 자동차운전 면허 1종
-        caption: 
-        description: 2012.02 취득| # this will include new lines to allow paragraphs
+      - layout: left
+        title: 
+        link: 
+        sub_title: 
+        caption: 2021.09 ~ 2024.08
+        description: | # this will include new lines to allow paragraphs
+          
 
-
-
-  - title: Class
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
-# Footer
+## Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
 
