@@ -10,7 +10,7 @@ name: 김은서
 title: Backend Developer
 email: eunseokim43@gmail.com
 website: github.com/ES-Im
-blog: silver-w.tistory.com/
+website: silver-w.tistory.com/
 
 # About Section
 about_profile_image: images/profile.png
@@ -23,8 +23,8 @@ about_content: |
   - DB(Hibernate) - <mark>MySQL</mark>, <mark>Mybatis</mark>, <mark>JPA</mark>, <mark>QueryDSL</mark>
   - 기타 - <mark>Github</mark>
 
-# 교육 Section
-education:
+# education Section
+content:
   - title: (K-Digital Training)클라우드 활용 자바 개발자 양성과정(22회차)
     caption: 구디아카데미
     sub_title: 2024.08 ~ 2025.2
@@ -38,7 +38,7 @@ education:
       - 5 개월차: Final Team Project(그룹웨어 시스템) 진행
 
 # 프로젝트 Section
-projects:
+content:
   - title: Spring/MVC 방식을 사용한 쇼핑몰 제작
     caption: 배포 URL
     sub_title: 2024.08 ~ 2025.2
@@ -49,7 +49,7 @@ projects:
       - (K-Digital Training) 클라우드 활용 자바 개발자 양성과정 86기 세미 팀 프로젝트입니다.
 
 # 경력 Section
-career:
+content:
   - title: 인천광역시
     caption: 2021.09 ~ 2024.08
     description: |
@@ -61,7 +61,7 @@ career:
       - 2024년 LH(한국토지주택공사) 인천지역본부와 협업하여 2024년 부동산 가격 공시 결정 및 공시 업무 수행
 
 # 학력 Section
-education:
+content:
   - title: 인하공업전문대학
     caption: 전문통신공학과
     sub_title: 2025.02 ~ 현재
@@ -81,7 +81,7 @@ education:
       경상북도 영주 소재 고등학교  
 
 # 자격 Section
-certifications:
+content:
   - title: 정보처리기사
     caption: 한국산업인력공단
     sub_title: 2025.06 취득
