@@ -37,6 +37,8 @@ content:
         sub_title: 구디아카데미
         caption: 2024.08 ~ 2025.2
         description: |
+        구디아카데미
+        
         <strong>교육</strong>
         - 1 개월차: input type, select 기능을 사용해 회원가입 페이지 구현, 조건문을 사용한 페이징 구현, 자바 calendar API를 활용한 달력 페이지 구현
         - 2 개월차: SQL 그룹함수(nvl, coalesce, group by, rollup, cube)를 활용한 데이터 정렬, GitHub를 이용한 학습 기록 및 복습 진행, multipart를 활용한 파일 업로드 기능 구현
