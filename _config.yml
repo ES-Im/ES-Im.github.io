@@ -19,7 +19,6 @@ about_content: |
     <br>
     
     <br>
-
     <strong>기술 스택</strong>
     - 프레임워크 - <mark>Spring Boot</mark>
     - 언어 - <mark>Java 21</mark>, <mark>JavaScript</mark>
@@ -53,17 +52,18 @@ about_content: |
 - title: 경력 # Title for the section
   layout: list # Layout for the section
   content:
-  - title: 인천광역시
-    caption: 2021.09 ~ 2024.08
-    description: |
-      21년 4월 지방공무원 공개경쟁임용시험을 통해 인천광역시에 소속되어 행정 업무와 민원 업무 등 각종 업무를 수행하였습니다.
-      <br>
-      <strong>주요 업무</strong>
-      - 2022년-2023년 행정안전부 세외수입 결산 및 예산 보고 및 사용자 교육 
-      - 세외수입 프로그램 총괄 관리 업무
-      - 2024년 LH(한국토지주택공사) 인천지역본부와 협업하여 2024년 부동산 가격 공시 결정 및 공시 업무 수행
-          
+    - title: 인천광역시
+      caption: 2021.09 ~ 2024.08
+      description: |
+        21년 4월 지방공무원 공개경쟁임용시험을 통해 인천광역시에 소속되어 행정 업무와 민원 업무 등 각종 업무를 수행하였습니다.
+        <br>
+        <strong>주요 업무</strong>
+        - 2022년-2023년 행정안전부 세외수입 결산 및 예산 보고 및 사용자 교육 
+        - 세외수입 프로그램 총괄 관리 업무
+        - 2024년 LH(한국토지주택공사) 인천지역본부와 협업하여 2024년 부동산 가격 공시 결정 및 공시 업무 수행
 
+          
+# 학 Section
   - title: 학력 # Title for the section
     layout: list # Layout for the section
     content:
