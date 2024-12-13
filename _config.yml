@@ -1,3 +1,10 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
 # Personal info
 name: 김은서
 title: Backend Developer
@@ -37,4 +44,79 @@ about_content: |
   caption: 배포 URL
   sub_title: 2024.08 ~ 2025.2
   quote: >
-    이 사이트는 전자상거래 통합 관리 플랫폼입니다. 고객은 상품 검색, 장바구니, 결제, 후기 작성 및 개인정보 관리를 통해 쇼핑을 편리하게 이용할 수 있으며, 직원은 상품, 주문, 고객, 후기 관리 및 매출 통계를 통해 효율적인 운영과 관리가
+    이 사이트는 전자상거래 통합 관리 플랫폼입니다. 고객은 상품 검색, 장바구니, 결제, 후기 작성 및 개인정보 관리를 통해 쇼핑을 편리하게 이용할 수 있으며, 직원은 상품, 주문, 고객, 후기 관리 및 매출 통계를 통해 효율적인 운영과 관리가 가능합니다.
+  description: |
+    - 사용 기술 : <mark>JAVA</mark>
+    - (K-Digital Training) 클라우드 활용 자바 개발자 양성과정 86기 세미 팀 프로젝트입니다.
+
+# 경력 Section
+- title: 경력 # Title for the section
+  layout: list # Layout for the section
+  content:
+  - title: 인천광역시
+    caption: 2021.09 ~ 2024.08
+    description: |
+      21년 4월 지방공무원 공개경쟁임용시험을 통해 인천광역시에 소속되어 행정 업무와 민원 업무 등 각종 업무를 수행하였습니다.
+      <br>
+      <strong>주요 업무</strong>
+      - 2022년-2023년 행정안전부 세외수입 결산 및 예산 보고 및 사용자 교육 
+      - 세외수입 프로그램 총괄 관리 업무
+      - 2024년 LH(한국토지주택공사) 인천지역본부와 협업하여 2024년 부동산 가격 공시 결정 및 공시 업무 수행
+          
+
+  - title: 학력 # Title for the section
+    layout: list # Layout for the section
+    content:
+      - title: 인하공업전문대학
+        caption: 전문통신공학과
+        sub_title: 2025.02 ~ 현재
+        description: | # this will include new lines to allow paragraphs
+          
+      - title: 동양대학교
+        caption: 행정학부
+        sub_title: 2012.03 - 2014.12
+        description: | # this will include new lines to allow paragraphs
+          - 5급 고시 장학생 입학, 전액 장학금 수여 <br>
+          - 3학년 2학기 후 중퇴
+
+      - title: 영광여자고등학교
+        caption: 인문계열
+        sub_title: 2009.03 - 2012.02
+        description: | # this will include new lines to allow paragraphs
+          경상북도 영주 소재 고등학교  
+          
+
+  - title: 자격 # Title for the section
+    layout: list # Layout for the section
+    content:
+      - title: 정보처리기사
+        caption: 한국산업인력공단
+        sub_title: 2025.06 취득
+          
+      - title: SQL 개발자(SQLD)
+        caption: 데이터자격검정
+        sub_title: 2024.12 취득
+
+      - title: 재경관리사
+        caption: 삼일회계법인
+        sub_title: 2020.01 취득
+      
+      - title: 자동차운전 면허 1종
+        caption: 
+        sub_title: 2012.02 취득
+
+          
+
+## Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
