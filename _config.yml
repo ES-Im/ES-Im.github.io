@@ -1,4 +1,4 @@
-# Site
+# Site settings
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
@@ -15,15 +15,16 @@ blog: silver-w.tistory.com/
 # About Section
 about_profile_image: images/profile.png
 about_content: |
-    안녕하세요.  
-    <br>
-    
-    <br>
-    <strong>기술 스택</strong>
-    - 프레임워크 - <mark>Spring Boot</mark>
-    - 언어 - <mark>Java 21</mark>, <mark>JavaScript</mark>
-    - DB(Hibernate) - <mark>MySQL</mark>, <mark>Mybatis</mark>, <mark>JPA</mark>, <mark>QueryDSL</mark>
-    - 기타 - <mark>Github</mark>
+  안녕하세요.  
+  <br>
+
+  <br>
+
+  <strong>기술 스택</strong>
+  - 프레임워크 - <mark>Spring Boot</mark>
+  - 언어 - <mark>Java 21</mark>, <mark>JavaScript</mark>
+  - DB(Hibernate) - <mark>MySQL</mark>, <mark>Mybatis</mark>, <mark>JPA</mark>, <mark>QueryDSL</mark>
+  - 기타 - <mark>Github</mark>
 
 # 교육 Section
 - title: (K-Digital Training)클라우드 활용 자바 개발자 양성과정(22회차)
