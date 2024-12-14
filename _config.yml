@@ -28,103 +28,103 @@ about_content: |
 
 # education Section
 content:
-  - title: education
-    layout: list
-    content:
-      - layout: left
-        title: (K-Digital Training)클라우드 활용 자바 개발자 양성과정(22회차)
-        link: 
-        sub_title: 구디아카데미
-        caption: 2024.08 ~ 2025.2
-        description: | 
-        - 1 개월차: input type, select 기능을 사용해 회원가입 페이지 구현, 조건문을 사용한 페이징 구현, 자바 calendar API를 활용한 달력 페이지 구현
-        - 2 개월차: SQL 그룹함수(nvl, coalesce, group by, rollup, cube)를 활용한 데이터 정렬, GitHub를 이용한 학습 기록 및 복습 진행, multipart를 활용한 파일 업로드 기능 구현
-        - 3 개월차: semi team project 진행, 자바스크립트를 활용한 유효성 검사, 알림 페이지 기능 구현
-        - 4 개월차: Oracle JDBC 학습, 자바 프레임워크(STS4)를 MyBatis 활용해 Spring MVC 구조의 페이지 구현, jQuery, EL, JSTL 학습, AWS 배포 실행
-        - 5 개월차: Final Team Project(그룹웨어 시스템) 진행
+- title: education
+  layout: list
+  content: 
+  - layout: left
+    title: (K-Digital Training)클라우드 활용 자바 개발자 양성과정(22회차)
+    link: 
+    sub_title: 구디아카데미
+    caption: 2024.08 ~ 2025.2
+    description: | 
+    - 1 개월차: input type, select 기능을 사용해 회원가입 페이지 구현, 조건문을 사용한 페이징 구현, 자바 calendar API를 활용한 달력 페이지 구현
+    - 2 개월차: SQL 그룹함수(nvl, coalesce, group by, rollup, cube)를 활용한 데이터 정렬, GitHub를 이용한 학습 기록 및 복습 진행, multipart를 활용한 파일 업로드 기능 구현
+    - 3 개월차: semi team project 진행, 자바스크립트를 활용한 유효성 검사, 알림 페이지 기능 구현
+    - 4 개월차: Oracle JDBC 학습, 자바 프레임워크(STS4)를 MyBatis 활용해 Spring MVC 구조의 페이지 구현, jQuery, EL, JSTL 학습, AWS 배포 실행
+    - 5 개월차: Final Team Project(그룹웨어 시스템) 진행
 
 # 프로젝트 Section
 content:
-  - title: Project
-    layout: list
-    content:
-      - layout: left
-        title: Spring/MVC 방식을 사용한 쇼핑몰 제작
-        link: #배포 URL
-        sub_title: 구디아카데미
-        caption: 2024.08 ~ 2025.2
-        description: 이 사이트는 전자상거래 통합 관리 플랫폼입니다. 고객은 상품 검색, 장바구니, 결제, 후기 작성 및 개인정보 관리를 통해 쇼핑을 편리하게 이용할 수 있으며, 직원은 상품, 주문, 고객, 후기 관리 및 매출 통계를 통해 효율적인 운영과 관리가 가능합니다.
-          <strong>사용기술</strong> 
-          -<mark>JAVA</mark>
+- title: Project
+  layout: list
+  content:
+  - layout: left
+    title: Spring/MVC 방식을 사용한 쇼핑몰 제작
+    link: #배포 URL
+    sub_title: 구디아카데미
+    caption: 2024.08 ~ 2025.2
+    description: 이 사이트는 전자상거래 통합 관리 플랫폼입니다. 고객은 상품 검색, 장바구니, 결제, 후기 작성 및 개인정보 관리를 통해 쇼핑을 편리하게 이용할 수 있으며, 직원은 상품, 주문, 고객, 후기 관리 및 매출 통계를 통해 효율적인 운영과 관리가 가능합니다.
+      <strong>사용기술</strong> 
+      -<mark>JAVA</mark>
 
 
 # 경력 Section
 content:
-  - title: Company
-    layout: list
-    content:
-      - layout: left
-        title: 인천광역시
-        link: 
-        caption: 2021.09 ~ 2024.08
-        description: 21년 4월 지방공무원 공개경쟁임용시험을 통해 인천광역시에 소속되어 행정 업무와 민원 업무 등 각종 업무를 수행하였습니다.
-        <br>
-        <strong>주요 업무</strong>
-        - 2022년-2023년 행정안전부 세외수입 결산 및 예산 보고 및 사용자 교육 
-        - 세외수입 프로그램 총괄 관리 업무
-        - 2024년 LH(한국토지주택공사) 인천지역본부와 협업하여 2024년 부동산 가격 공시 결정 및 공시 업무 수행
+- title: Company
+  layout: list
+  content:
+  - layout: left
+    title: 인천광역시
+    link: 
+    caption: 2021.09 ~ 2024.08
+    description: 21년 4월 지방공무원 공개경쟁임용시험을 통해 인천광역시에 소속되어 행정 업무와 민원 업무 등 각종 업무를 수행하였습니다.
+    <br>
+    <strong>주요 업무</strong>
+    - 2022년-2023년 행정안전부 세외수입 결산 및 예산 보고 및 사용자 교육 
+    - 세외수입 프로그램 총괄 관리 업무
+    - 2024년 LH(한국토지주택공사) 인천지역본부와 협업하여 2024년 부동산 가격 공시 결정 및 공시 업무 수행
 
 # 학력 Section
 content:
-  - title: Education
-    layout: list
-    content:
-      - layout: left
-        title: 인하공업전문대학
-        link: 
-        caption: 2025.02 ~ 현재
-        sub_title: 전문통신공학과
-        description: |
+- title: Education
+  layout: list
+  content:
+  - layout: left
+    title: 인하공업전문대학
+    link: 
+    caption: 2025.02 ~ 현재
+    sub_title: 전문통신공학과
+    description: |
 
-      - title: 동양대학교
-        link: 
-        caption: 2012.03 - 2014.12
-        sub_title: 행정학부
-        description: |
-              - 5급 고시 장학생 입학, 전액 장학금 수여 <br>
-              - 3학년 2학기 후 중퇴
+  - title: 동양대학교
+    link: 
+    caption: 2012.03 - 2014.12
+    sub_title: 행정학부
+    description: |
+          - 5급 고시 장학생 입학, 전액 장학금 수여 <br>
+          - 3학년 2학기 후 중퇴
 
-      - title: 영광여자고등학교
-        link: 
-        caption: 2009.03 - 2012.02
-        sub_title: 인문계열
-        description: |
+  - title: 영광여자고등학교
+    link: 
+    caption: 2009.03 - 2012.02
+    sub_title: 인문계열
+    description: |        
 
 # 자격 Section
 content:
-  - title: Certification
-    layout: list
-    content:
-      - layout: left
-        title: 정보처리기사
-        caption: 2025.06 취득
-        sub_title: 한국산업인력공단
-        description: |
+- title: Certification
+  layout: list
+  content:
+  - layout: left
+    title: 정보처리기사
+    caption: 2025.06 취득
+    sub_title: 한국산업인력공단
+    description: |
 
-      - title: SQL 개발자(SQLD)
-        caption: 2024.12 취득
-        sub_title: 데이터자격검정
-        description: |
+  - title: SQL 개발자(SQLD)
+    caption: 2024.12 취득
+    sub_title: 데이터자격검정
+    description: |
 
-      - title: 재경관리사
-        caption: 2020.01 취득
-        sub_title: 삼일회계법인
-        description: |
+  - title: 재경관리사
+    caption: 2020.01 취득
+    sub_title: 삼일회계법인
+    description: |
 
-      - title: 자동차운전 면허 1종
-        caption: 2012.02 취득
-        sub_title: |
-        description: |
+  - title: 자동차운전 면허 1종
+    caption: 2012.02 취득
+    sub_title: |
+    description: |
 
 ## Footer
 footer_show_references: true
