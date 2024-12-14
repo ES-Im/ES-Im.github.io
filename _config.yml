@@ -18,13 +18,20 @@ additional_links:
 # About Section
 about_profile_image: https://fontawesome.com/icons/mug-hot?f=classic&s=light
 about_content: |
-  안녕하세요.  
+  안녕하세요. 신입 백엔드 개발자 김은서입니다. 
+  현재 Java, Spring Frame Work, MySql를 주로 사용하고있습니다.
+
+  빠른 적응력을 바탕으로 문제를 정확하고 신속하게 해결하는 것을 중시하며,
+  여러 부서와 기관과의 협업 경험을 통해 동료들과의 소통을 중시하는 자세를 갖추었습니다.
+
+  업무 관련 지식을 채우기 위해서 CS 지식, 네트워크, 알고리즘 등을 공부하고 있으며,
+  개발 문화와 요즘 많이 사용하는 기술 스택에 관심이 많아 .....를 따로 학습하며 꾸준히 발전하기 위해 노력하고 있습니다.
 
   <strong>기술 스택</strong>
   - 프레임워크 - <mark>Spring Boot</mark>
   - 언어 - <mark>Java 21</mark>, <mark>JavaScript</mark>
-  - DB(Hibernate) - <mark>MySQL</mark>, <mark>Mybatis</mark>, <mark>JPA</mark>, <mark>QueryDSL</mark>
-  - 기타 - <mark>Github</mark>
+  - DB(Hibernate) - <mark>MySQL</mark>, <mark>Mybatis</mark>, <mark>QueryDSL</mark>
+  - 도구 - <mark>Github</mark>, <mark>Eclipse IDE</mark>, <mark>Intelij IDE</mark>
 
 # education Section
 content:
@@ -32,30 +39,29 @@ content:
     layout: list
     content: 
       - layout: left
-        title: (K-Digital Training) <br> 클라우드 활용 자바 개발자 양성과정(22회차)
-        sub_title: 구디아카데미
+        title: 구디아카데미
+        sub_title: (K-Digital Training) 클라우드 활용 자바 개발자 양성과정(22회차)
         caption: 2024.08 ~ 2025.2
         description: | 
-          - 1 개월차: input type, select 기능을 사용해 회원가입 페이지 구현, 조건문을 사용한 페이징 구현, 자바 calendar API를 활용한 달력 페이지 구현
-          - 2 개월차: SQL 그룹함수(nvl, coalesce, group by, rollup, cube)를 활용한 데이터 정렬, GitHub를 이용한 학습 기록 및 복습 진행, multipart를 활용한 파일 업로드 기능 구현
-          - 3 개월차: semi team project 진행, 자바스크립트를 활용한 유효성 검사, 알림 페이지 기능 구현
-          - 4 개월차: Oracle JDBC 학습, 자바 프레임워크(STS4)를 MyBatis 활용해 Spring MVC 구조의 페이지 구현, jQuery, EL, JSTL 학습, AWS 배포 실행
-          - 5 개월차: Final Team Project(그룹웨어 시스템) 진행
+          - 1개월차: Java 문법 및 객체지향 프로그래밍 기초 습득
+          - 2개월차: SQL 기초 및 활용, JDBC를 통한 JAVA 프로젝트 연동 및 기본 웹 개발
+          - 3개월차: 웹 프레임워크 사용, JSP를 활용한 Model2 방식 웹 개발
+          - 4개월차: MySQL JDBC, Spring MVC, MyBatis를 활용한 세미 프로젝트 진행
+          - 5개월차: Docker 및 클라우드 환경 구축 및 활용
+          - 6개월차: Final 팀 프로젝트 (그룹웨어 시스템) 진행
 
 # 프로젝트 Section
   - title: Project
     layout: list
     content:
-      - title: Spring/MVC 방식을 사용한 쇼핑몰 제작
+      - title: E-커머스 플랫폼
         link: #배포 URL
-        sub_title: 구디아카데미
-        caption: 2024.08 ~ 2025.2
+        sub_title: Spring/MVC 방식을 사용한 쇼핑몰 제작
+        caption: 2024-11-18 ~ 2024-12-05
         description: |
-          이 사이트는 전자상거래 통합 관리 플랫폼입니다. <br>
-          고객은 상품 검색, 장바구니, 결제, 후기 작성 및 개인정보 관리를 통해 쇼핑을 편리하게 이용할 수 있으며, <br>
-          직원은 상품, 주문, 고객, 후기 관리 및 매출 통계를 통해 효율적인 운영과 관리가 가능합니다. <br>
-          <strong>사용기술</strong> 
-          - <mark>JAVA</mark>
+           <br>
+          - Java, SpringFramework, Tomcat, Mybatis, MySQL, Tomcat
+          - 담당 역할 : 회원 세션 관련 기능의 설계 및 구현을 담당하였습니다. 또한 효율적인 협업을 위해 스토리보드, 인터페이스 문서 틀 작성 및 협업툴을 제안하고 사용 방법을 안내하였습니다.       
 
 
 # 경력 Section
@@ -68,17 +74,13 @@ content:
           21년 4월 지방공무원 공개경쟁임용시험을 통해 인천광역시에 소속되어 행정 업무와 민원 업무 등 각종 업무를 수행하였습니다.
           <br>
           <strong>주요 업무</strong><br>
-          - <mark>2022년-2023년</mark> 세외수입 총괄 결산 및 예산 보고, 세외수입 프로그램 총괄 관리 업무 및 사용자 교육 <br>
+          - <mark>2022년-2023년</mark> 세외수입 프로그램 총괄 관리 업무 및 사용자 교육 <br>
           - <mark>2024년</mark> LH(한국토지주택공사) 인천지역본부와 협업하여 2024년 부동산 가격 공시 결정 및 공시 업무 수행 
           
       - title: 생산 및 서비스직 근무
         caption: 2015.01 ~ 2020.6
         description: |
           서비스 및 제조업 분야 근무
-          <br>
-          <strong>주요 업무</strong><br>
-          - 스태프칩팩코리아, 웨스트진베이커리 등 제조 및 검수업무 <br>
-          - 화성휴게소, 뜨레비앙 서비스 업장에서 고객 응대 및 매장 관리
 
 # 학력 Section
   - title: Education
@@ -86,7 +88,7 @@ content:
     content:
       - title: 인하공업전문대학
         caption: 2025.02 ~ 현재
-        sub_title: 정통신공학과
+        sub_title: 정보통신공학과
         description: |
 
       - title: 동양대학교
