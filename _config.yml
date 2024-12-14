@@ -33,7 +33,6 @@ content:
   content: 
   - layout: left
     title: (K-Digital Training)클라우드 활용 자바 개발자 양성과정(22회차)
-    link: 
     sub_title: 구디아카데미
     caption: 2024.08 ~ 2025.2
     description: | 
@@ -65,7 +64,6 @@ content:
   content:
   - layout: left
     title: 인천광역시
-    link: 
     caption: 2021.09 ~ 2024.08
     description: 21년 4월 지방공무원 공개경쟁임용시험을 통해 인천광역시에 소속되어 행정 업무와 민원 업무 등 각종 업무를 수행하였습니다.
     <br>
@@ -81,13 +79,11 @@ content:
   content:
   - layout: left
     title: 인하공업전문대학
-    link: 
     caption: 2025.02 ~ 현재
     sub_title: 전문통신공학과
     description: |
 
   - title: 동양대학교
-    link: 
     caption: 2012.03 - 2014.12
     sub_title: 행정학부
     description: |
@@ -95,7 +91,6 @@ content:
           - 3학년 2학기 후 중퇴
 
   - title: 영광여자고등학교
-    link: 
     caption: 2009.03 - 2012.02
     sub_title: 인문계열
     description: |        
